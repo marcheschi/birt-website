@@ -80,7 +80,7 @@ If you have a version of BIRT installed, and want to install a newer version, do
 
 *    Restart Eclipse with the -clean option: eclipse -clean
 
-## Deploying to a Java Sever
+## Deploying to a Java Server
 
 Please see Setting up the BIRT Viewer.
 Installing BIRT Language Packs on Windows
